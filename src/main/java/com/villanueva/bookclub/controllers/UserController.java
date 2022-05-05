@@ -139,7 +139,7 @@ public class UserController {
 	@GetMapping("/book/info/{id}")
 	public String displayBook(@PathVariable("id") Long id, Model model) {
 
-//		get meal from the database by going through service
+//		get book from the database by going through service
 //		then store the in a variable the obj from the database
 //		always attach the data type - class when assigning a variable
 		Book bookObj = this.bookService.getBook(id);
@@ -154,7 +154,7 @@ public class UserController {
 //	EDIT FORM
 	@GetMapping("book/{id}/edit")
 	public String editBook(@PathVariable("id") Long id, Model model) {
-//		get meal from the database by going through service
+//		get book from the database by going through service
 //		then store the in a variable the obj from the database
 //		always attach the data type - class when assigning a variable
 
