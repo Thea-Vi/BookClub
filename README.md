@@ -8,7 +8,7 @@ Project consists of CRUD operations so that a user is able to create an account,
 
 <h2>Languages | Framework | Database Used</h2>
 
-- <b>Java | Spring | MySQL | JSP | HTML | CSS | Bootsrap</b> 
+- <b>Java | Spring | MySQL | JSP | HTML | CSS | Bootstrap</b> 
 
 
 <h2>IDE used</h2>
