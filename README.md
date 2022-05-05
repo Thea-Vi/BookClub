@@ -36,6 +36,10 @@ Note * Only logged in user is able to edit and delete. <br/>
 <img src="https://i.imgur.com/O7XaUsQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+View Uploaded Books by Other Users:  <br/>
+<img src="https://i.imgur.com/eglz0QZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Add a new book:  <br/>
 <img src="https://i.imgur.com/h8znvBj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -54,6 +58,7 @@ View Updated Book:  <br/>
 <br />
 View Uploaded Books per User:  <br/>
 <img src="https://i.imgur.com/T0OfMPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 
