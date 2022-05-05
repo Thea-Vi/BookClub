@@ -2,19 +2,13 @@
 
 
 <h2>Description</h2>
-Project consists of CRUD operations that let the user to register/login to use the application.
+Project consists of CRUD operations so that a user is able to create an account, view books, update, and delete entries.
 <br />
 
 
 <h2>Languages | Framework | Database Used</h2>
 
-- <b>Java</b> 
-- <b>Spring</b>
-- <b>MySQL</b>
-- <b>JSP</b>
-- <b>HTML</b>
-- <b>CSS</b>
-- <b>Bootsrap</b>
+- <b>Java | Spring | MySQL | JSP | HTML | CSS | Bootsrap</b> 
 
 
 <h2>IDE used</h2>
@@ -33,7 +27,7 @@ Validation <br/>
 <br />
 <br />
 Validation: <br/>
-<img src="https://i.imgur.com/lGDDSo9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2Vm3J0z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Dashboard: User is able to view all books uploaded by other users. 
