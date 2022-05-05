@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+.header{
+	margin-top: none;
+	text-align: center;
+}
+
+.body{
+	margin-top: 40px;
+	background-color: black;
+	border: 2px solid gray;
+	width: 100vw;
+	height: 100vh;
+}
+.form{
+	display:flex;
+	margin-left: 450px;
+}
+.register{
+	margin-top: 0;
+
+}
+
+.login{
+	margin-left: 100px;
+	margin-top: 0;
+}
+
+.loginimage{
+	width: 70%;
+	height: 400px;
+	margin-left: 200px;
+}
+
+.headerimg {
+	width: 70%;
+	height: 300px;
+	padding: 0;
+	margin-left: 180px;
+	background-color: black;
+
+}
+
+.user{
+
+	color: coral;
+}
+
+.addbook {
+	
+}
+
+h3{
+	text-align: center;
+}
+
+.details{
+	
+}
+
+.detail-body{
+	margin-top: 30px;
+}
+.container{
+
+}
+
+.userdetails {
+	text-align: center;
+	margin-top: 40px;
+}
+
+
