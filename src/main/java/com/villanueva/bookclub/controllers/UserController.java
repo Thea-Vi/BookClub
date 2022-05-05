@@ -23,7 +23,7 @@ import com.villanueva.bookclub.services.UserService;
 @Controller
 public class UserController {
 
-//	CONTROLLERS TALKS TO THE SERVICE
+//	CONTROLLER TALKS TO THE SERVICE
 	@Autowired
 	private UserService userService;
 
